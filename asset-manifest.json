@@ -1,14 +1,14 @@
 {
-  "main.css": "/reactnd-project-myreads-starter/static/css/main.71842521.chunk.css",
-  "main.js": "/reactnd-project-myreads-starter/static/js/main.894c3b82.chunk.js",
-  "main.js.map": "/reactnd-project-myreads-starter/static/js/main.894c3b82.chunk.js.map",
-  "static/js/1.ae6eb9f0.chunk.js": "/reactnd-project-myreads-starter/static/js/1.ae6eb9f0.chunk.js",
-  "static/js/1.ae6eb9f0.chunk.js.map": "/reactnd-project-myreads-starter/static/js/1.ae6eb9f0.chunk.js.map",
-  "runtime~main.js": "/reactnd-project-myreads-starter/static/js/runtime~main.83f7d75c.js",
-  "runtime~main.js.map": "/reactnd-project-myreads-starter/static/js/runtime~main.83f7d75c.js.map",
-  "static/css/main.71842521.chunk.css.map": "/reactnd-project-myreads-starter/static/css/main.71842521.chunk.css.map",
-  "static/media/App.css": "/reactnd-project-myreads-starter/static/media/add.75d390e5.svg",
+  "main.css": "/reactnd-project-myreads-starter/static/css/main.a06bcd92.chunk.css",
+  "main.js": "/reactnd-project-myreads-starter/static/js/main.50d954c3.chunk.js",
+  "main.js.map": "/reactnd-project-myreads-starter/static/js/main.50d954c3.chunk.js.map",
+  "runtime~main.js": "/reactnd-project-myreads-starter/static/js/runtime~main.eed0f222.js",
+  "runtime~main.js.map": "/reactnd-project-myreads-starter/static/js/runtime~main.eed0f222.js.map",
+  "static/js/2.d5e446c0.chunk.js": "/reactnd-project-myreads-starter/static/js/2.d5e446c0.chunk.js",
+  "static/js/2.d5e446c0.chunk.js.map": "/reactnd-project-myreads-starter/static/js/2.d5e446c0.chunk.js.map",
   "index.html": "/reactnd-project-myreads-starter/index.html",
-  "precache-manifest.6d4fe26ba24e927ae5fb25bec3ddcdb8.js": "/reactnd-project-myreads-starter/precache-manifest.6d4fe26ba24e927ae5fb25bec3ddcdb8.js",
-  "service-worker.js": "/reactnd-project-myreads-starter/service-worker.js"
+  "precache-manifest.5f0662c4830287fc9287c3adedbd41cd.js": "/reactnd-project-myreads-starter/precache-manifest.5f0662c4830287fc9287c3adedbd41cd.js",
+  "service-worker.js": "/reactnd-project-myreads-starter/service-worker.js",
+  "static/css/main.a06bcd92.chunk.css.map": "/reactnd-project-myreads-starter/static/css/main.a06bcd92.chunk.css.map",
+  "static/media/App.css": "/reactnd-project-myreads-starter/static/media/arrow-drop-down.9d4e3f36.svg"
 }
